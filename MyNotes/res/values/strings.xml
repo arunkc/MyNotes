@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyNotes</string>
+    <string name="str_exit">Exit</string>
+	<string name="str_save">Save</string>
+	<string name="str_saveas">Save As</string>
+	<string name="str_recent">Recent</string>
+	<string name="str_new">New</string>
+	<string name="str_delete">Delete</string>
+	<string name="str_open">Open</string>
+		
+</resources>
